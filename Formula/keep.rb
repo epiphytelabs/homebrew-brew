@@ -23,6 +23,6 @@ class Keep < Formula
   end
 
   test do
-    assert_equal "dev\n", shell_output("#{bin}/keep version")
+    assert_equal "dev\n", shell_output("#{bin}/keep -v")
   end
 end
