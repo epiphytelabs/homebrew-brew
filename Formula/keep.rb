@@ -1,8 +1,8 @@
 class Keep < Formula
   desc "Epiphyte Keep"
   homepage "https://epiphyte.xyz/"
-  url "https://github.com/epiphytelabs/keep/archive/v0.0.1.tar.gz"
-  sha256 "738f338c4f01b0eae2e90134f88b0c343202065916d438ed8368f791eb12e357"
+  url "https://github.com/epiphytelabs/keep/archive/v0.0.2.tar.gz"
+  sha256 "24ee7c4e265b36e9a1306f57286d1a90a0c6abc8991a1ece1f6febf1b5a2ad8f"
   license "GPL-3.0-or-later"
   version_scheme 1
 
